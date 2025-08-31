@@ -68,3 +68,6 @@ Pour chaque sous-analyse, des recommandations ont été faites partiellement ind
 * Fonctions conditionnelles : `CASE WHEN`
 * Sous-requêtes : CTE, Tables temporaires
 * Calculs métiers : CA mensuel, panier moyen, taux de fidéliation, etc... 
+#
+## CONTACTEZ MOI !
+Pour toute question, suggestion ou un encouragement, n'hésitez pas à nous contacter sur linkedIn [Florian Djangonin](https://www.linkedin.com/in/florian-djangonin/). Je serai ravis d'échanger avec vous !
